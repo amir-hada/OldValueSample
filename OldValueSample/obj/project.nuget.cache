@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JN2rShxsvjyV7v6HpUtnAaSqNzgVOqCH/IN+dYpUc66VyFm8JuGtGgceIOsLgssECGWBME7wSIUDsr1lu5HL3A==",
+  "dgSpecHash": "kLHaqVa+Efp5Gv4C9oXnUcHm6444SfUGj+8eesP2Ql5pd3Ob7GHlmbnzIK7Lm1+GZJ95jEsDGREpACILZ2kiVw==",
   "success": true,
-  "projectFilePath": "/Users/amohada/RiderProjects/OldValueSample/OldValueSample/OldValueSample.csproj",
+  "projectFilePath": "/Users/amohada/Projects/OldValueSample/OldValueSample/OldValueSample.csproj",
   "expectedPackageFiles": [
     "/Users/amohada/.nuget/packages/metalama.compiler/2025.1.3-rc/metalama.compiler.2025.1.3-rc.nupkg.sha512",
     "/Users/amohada/.nuget/packages/metalama.framework/2025.1.3-rc/metalama.framework.2025.1.3-rc.nupkg.sha512",

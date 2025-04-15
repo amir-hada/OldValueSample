@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/amohada/RiderProjects/OldValueSample/OldValueSample/OldValueSample.csproj": {}
+    "/Users/amohada/Projects/OldValueSample/OldValueSample/OldValueSample.csproj": {}
   },
   "projects": {
-    "/Users/amohada/RiderProjects/OldValueSample/OldValueSample/OldValueSample.csproj": {
+    "/Users/amohada/Projects/OldValueSample/OldValueSample/OldValueSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/amohada/RiderProjects/OldValueSample/OldValueSample/OldValueSample.csproj",
+        "projectUniqueName": "/Users/amohada/Projects/OldValueSample/OldValueSample/OldValueSample.csproj",
         "projectName": "OldValueSample",
-        "projectPath": "/Users/amohada/RiderProjects/OldValueSample/OldValueSample/OldValueSample.csproj",
+        "projectPath": "/Users/amohada/Projects/OldValueSample/OldValueSample/OldValueSample.csproj",
         "packagesPath": "/Users/amohada/.nuget/packages/",
-        "outputPath": "/Users/amohada/RiderProjects/OldValueSample/OldValueSample/obj/",
+        "outputPath": "/Users/amohada/Projects/OldValueSample/OldValueSample/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/amohada/.nuget/NuGet/NuGet.Config"
