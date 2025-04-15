@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "kLHaqVa+Efp5Gv4C9oXnUcHm6444SfUGj+8eesP2Ql5pd3Ob7GHlmbnzIK7Lm1+GZJ95jEsDGREpACILZ2kiVw==",
+  "dgSpecHash": "l4tDk7Rfydc=",
   "success": true,
   "projectFilePath": "/Users/amohada/Projects/OldValueSample/OldValueSample/OldValueSample.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,10 @@
     "/Users/amohada/.nuget/packages/metalama.framework.redist/2025.1.3-rc/metalama.framework.redist.2025.1.3-rc.nupkg.sha512",
     "/Users/amohada/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/amohada/.nuget/packages/system.collections.immutable/6.0.0/system.collections.immutable.6.0.0.nupkg.sha512",
-    "/Users/amohada/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "/Users/amohada/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/amohada/.nuget/packages/microsoft.netcore.app.ref/8.0.15/microsoft.netcore.app.ref.8.0.15.nupkg.sha512",
+    "/Users/amohada/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.15/microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512",
+    "/Users/amohada/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.15/microsoft.netcore.app.host.osx-arm64.8.0.15.nupkg.sha512"
   ],
   "logs": []
 }
