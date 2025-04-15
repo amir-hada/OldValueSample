@@ -46,7 +46,7 @@ internal class NotifyPropertyChangedAttribute : TypeAspect
         {
             meta.Proceed();
             
-            this.OnPropertyChanged(meta.Target.Property.Name);
+            //this.OnPropertyChanged(meta.Target.Property.Name);
             this.OnPropertyChanged(meta.Target.Property.Name, oldValue, value);
 
       
